@@ -10,6 +10,7 @@
 
     <!--  SUAS ENTITY AQUI -->
     <class>model.Cliente</class>
+    <class>model.Endereco</class>
 
     <properties>
         <!--  Propriedades JDBC  -->
